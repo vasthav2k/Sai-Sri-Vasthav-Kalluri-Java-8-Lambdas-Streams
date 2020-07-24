@@ -6,4 +6,4 @@ Name: K Sai Sri Vasthav
 
 Email:vasthav1729@gmail.com
 
-College : vasthav1729@gmail.com
+College : Vasavi College Of Engineering
